@@ -29,3 +29,8 @@ PRODUCT_PACKAGES += \
     TealAccent \
     YellowAccent \
     WhiteAccent
+
+# Fonts
+PRODUCT_PACKAGES += \
+    CustomFonts
+
