@@ -19,4 +19,7 @@
     <color name="material_blue_grey_900">@*android:color/black</color>
     <color name="material_blue_grey_950">@*android:color/black</color>
 
+    <!-- Notification info -->
+    <color name="notification_info_button_text">@*android:color/notification_default_color</color>
+
 </resources>

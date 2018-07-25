@@ -9,4 +9,7 @@
     <!-- Two target preference vertical divider color -->
     <color name="list_divider_dark">#64eeeeee</color>
 
+    <!-- Notification info -->
+    <color name="notification_info_button_text">@*android:color/notification_default_color</color>
+
 </resources>
