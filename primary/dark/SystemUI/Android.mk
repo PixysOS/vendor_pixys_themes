@@ -9,7 +9,7 @@ LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := false
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
-    vendor/themes/common/res
+    vendor/pixys/themes/common/res
 
 LOCAL_AAPT_FLAGS := \
     --auto-add-overlay
