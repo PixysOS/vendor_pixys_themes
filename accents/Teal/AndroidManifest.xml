@@ -2,7 +2,7 @@
     package="com.accents.teal"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="android" android:priority="1"/>
+    <overlay android:targetPackage="android" android:priority="1" android:category="android.theme"/>
 
     <application android:label="@string/accent_color_teal" android:hasCode="false"/>
 </manifest>
