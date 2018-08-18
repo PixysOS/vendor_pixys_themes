@@ -33,4 +33,8 @@
     <color name="notification_snooze_text">@*android:color/theme_text1</color>
     <color name="notification_text_color1">@*android:color/theme_text1</color>
 
+    <!-- Toast text and bg colors -->
+    <color name="toast_bg_color">#cc121212</color>
+    <color name="toast_text_color">@android:color/white</color>
+
 </resources>
