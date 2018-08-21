@@ -1,10 +1,10 @@
 # Primary Themes
-PRODUCT_PACKAGES += \
-    SystemDark \
-    SystemDarkNotifications \
-    SettingsDark \
-    SystemUIDark \
-    GBoardDark
+#PRODUCT_PACKAGES += \
+#    SystemDark \
+#    SystemDarkNotifications \
+#    SettingsDark \
+#    SystemUIDark \
+#    GBoardDark
 
 # Accents colors
 PRODUCT_PACKAGES += \
@@ -31,6 +31,6 @@ PRODUCT_PACKAGES += \
     WhiteAccent
 
 # Fonts
-PRODUCT_PACKAGES += \
-    CustomFonts
+#PRODUCT_PACKAGES += \
+#    CustomFonts
 
