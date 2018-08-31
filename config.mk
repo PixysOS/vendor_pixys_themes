@@ -1,5 +1,9 @@
 # Primary Themes
-
+PRODUCT_PACKAGES += \
+    DarkThemeAndroidOverlay \
+    DarkThemeSettingsOverlay \
+    BlackThemeAndroidOverlay \
+    BlackThemeSettingsOverlay
 
 # Accents colors
 PRODUCT_PACKAGES += \
