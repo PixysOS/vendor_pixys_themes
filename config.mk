@@ -1,10 +1,5 @@
 # Primary Themes
-#PRODUCT_PACKAGES += \
-#    SystemDark \
-#    SystemDarkNotifications \
-#    SettingsDark \
-#    SystemUIDark \
-#    GBoardDark
+
 
 # Accents colors
 PRODUCT_PACKAGES += \
