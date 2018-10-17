@@ -33,3 +33,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     CustomFonts
 
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStilesDefault \
+    QStilesCircleTrim \
+    QStilesSquircleTrim \
+    QStilesTwoToneCircle
