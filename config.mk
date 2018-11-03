@@ -5,29 +5,38 @@ PRODUCT_PACKAGES += \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay
 
-# Accents colors
+# Color required overlays packages
 PRODUCT_PACKAGES += \
-    AmberAccent \
-    BlackAccent \
-    BlueAccent \
-    BlueGreyAccent \
-    BrownAccent \
-    CyanAccent \
-    DeepOrangeAccent \
-    DeepPurpleAccent \
-    GreenAccent \
-    GreyAccent \
-    IndigoAccent \
-    LightBlueAccent \
-    LightGreenAccent \
-    LimeAccent \
-    OrangeAccent \
-    PinkAccent \
-    PurpleAccent \
-    RedAccent \
-    TealAccent \
-    YellowAccent \
-    WhiteAccent
+    ObfusBleu \
+    NotImpPurple \
+    Holillusion \
+    MoveMint \
+    AlmostProBlue \
+    BubblegumPink \
+    FrenchBleu \
+    Stock \
+    ManiaAmber \
+    DrownedAquaBlue \
+    BoucheRed \
+    DreamyPurple \
+    GrapesPurple \
+    SpookedPurple \
+    MisleadingRed \
+    FSRGrey \
+    HeirloomBleu \
+    LunaBlue \
+    WarmthOrange \
+    NaturedGreen \
+    ColdBleu \
+    DiffDayGreen \
+    DuskPurple \
+    BurningRed \
+    SimilarDawnRed \
+    SpoofyGreen \
+    NewHouseOrange \
+    LimedGreen \
+    SunsetOrange \
+    UiGradientsDIMIGO
 
 # Fonts
 PRODUCT_PACKAGES += \

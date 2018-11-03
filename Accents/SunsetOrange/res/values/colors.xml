@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">#ffec544f</color>
+    <color name="accent_material_light">#ffec544f</color>
+    <color name="accent_device_default_50">#ffec544f</color>
+    <color name="accent_device_default_700">#ffec544f</color>
+    <color name="accent_device_default_dark">#ffec544f</color>
+    <color name="accent_device_default_light">#ffec544f</color>
+    <color name="material_deep_teal_200">#ffec544f</color>
+    <color name="material_deep_teal_500">#ffec544f</color>
+    <color name="user_icon_1">#ffec544f</color>
+
+    <!-- Possible color to contrast with the gradient -->
+    <color name="bootleg_accent_gradient_end_color">#ffe9d9b7</color>
+</resources>
