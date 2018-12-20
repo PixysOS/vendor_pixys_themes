@@ -30,6 +30,6 @@ PRODUCT_PACKAGES += \
     WhiteAccent
 
 # Fonts
-#PRODUCT_PACKAGES += \
-#    CustomFonts
+PRODUCT_PACKAGES += \
+    CustomFonts
 
