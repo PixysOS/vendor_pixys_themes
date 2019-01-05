@@ -53,6 +53,3 @@ PRODUCT_PACKAGES += \
     QSTilesJustIcons \
     QStilesCircleOutline \
     QSTilesCircleGradient
-
-# Call Overlay
-DEVICE_PACKAGE_OVERLAYS += vendor/pixys/themes/overlay/common
