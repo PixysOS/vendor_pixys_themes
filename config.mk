@@ -5,7 +5,9 @@ PRODUCT_PACKAGES += \
     DarkThemeSystemUIOverlay \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay \
-    BlackThemeSystemUIOverlay
+    BlackThemeSystemUIOverlay \
+    WellbeingDark \
+    WellbeingBlack
 
 # Color required overlays packages
 PRODUCT_PACKAGES += \
