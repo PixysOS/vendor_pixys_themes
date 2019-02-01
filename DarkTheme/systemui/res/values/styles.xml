@@ -8,5 +8,7 @@
         <item name="android:colorControlNormal">?android:attr/textColorPrimary</item>
         <item name="android:colorBackgroundFloating">@*android:color/material_grey_900</item>
         <item name="android:panelColorBackground">@*android:color/material_grey_800</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
     </style>
 </resources>
