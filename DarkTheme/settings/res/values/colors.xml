@@ -21,4 +21,7 @@
     <color name="qs_tile_icon_active">@*android:color/background_material_dark</color>
     <color name="qs_tile_icon_inactive">#FFC3C3C3</color>
 
+    <!-- Suggestion cards -->
+    <color name="suggestion_card_background">#ff313235</color>
+
 </resources>
